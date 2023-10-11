@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rentensei.github.io/healthyhub/",
+  "homepage": "https://goitstudentsworks.github.io/fs-76-3-react-node-healthy-hub/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
