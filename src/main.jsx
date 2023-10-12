@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   // <React.StrictMode>
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="/fs-76-3-react-node-healthy-hub/">
+      <BrowserRouter basename="/fs-76-3-react-node-healthy-hub">
         <ModalProvider>
           <ModalManager />
           <App />
